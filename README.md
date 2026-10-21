@@ -152,6 +152,12 @@ The analysis script also includes a query intended to examine average monthly la
 
 ![SQL exploratory analysis results](screenshots/eda_results.png)
 
+### GitHub Repository
+
+![Published GitHub repository showing the project files](screenshots/github_repository.png)
+
+View the live project: [WORLD_LAYOFF_EDA](https://github.com/matanmisam/WORLD_LAYOFF_EDA)
+
 ## SQL Concepts Demonstrated
 
 - `SELECT` and `WHERE`
