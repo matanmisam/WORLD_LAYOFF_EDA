@@ -1,0 +1,20 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Local editor settings
+.vscode/
+
+# Temporary and log files
+*.log
+*.tmp
+*.bak
+
+#Operatin system files
+.DS_Store
+Thumbs.db
+
+# Python-generated files (if needed later)
+__pycache__/
+*pyc
